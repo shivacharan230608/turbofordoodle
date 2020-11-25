@@ -1,0 +1,17 @@
+ul{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+ list-style: none;
+position: relative;}
+
+
+.shiva{
+    display: table;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+     list-style: none;
+    position: relative;
+    
+
+}
